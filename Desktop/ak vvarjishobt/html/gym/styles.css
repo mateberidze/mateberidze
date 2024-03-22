@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+.counter {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.controls button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.display {
+    margin-top: 20px;
+}
+
+.display p {
+    margin: 10px 0;
+}
